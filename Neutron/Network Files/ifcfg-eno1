@@ -1,0 +1,6 @@
+TYPE="OVSPort"
+DEVICE="eno1"
+BOOTPROTO=none
+ONBOOT="yes"
+DEVICETYPE=ovs
+OVS_BRIDGE=br-ext
