@@ -1,0 +1,6 @@
+TYPE="OVSPort"
+DEVICE="enp2s0"
+BOOTPROTO=none
+ONBOOT="yes"
+DEVICETYPE=ovs
+OVS_BRIDGE=br-enp2s0
